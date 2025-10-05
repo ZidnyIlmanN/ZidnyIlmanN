@@ -1,4 +1,4 @@
-# 👋 Halo, Saya [Nama Anda]!
+# 👋 Halo, Saya Zidny Ilman Nafi'an!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -6,12 +6,12 @@
 
 ## 🚀 Tentang Saya
 
-- 🔭 Saat ini sedang mengerjakan **[Proyek Anda]**
-- 🌱 Sedang belajar **[Teknologi yang sedang dipelajari]**
-- 👯 Terbuka untuk kolaborasi dalam **[Bidang yang diminati]**
-- 💬 Tanya saya tentang **[Keahlian Anda]**
-- 📫 Hubungi saya: **[email@example.com]**
-- ⚡ Fun fact: **[Fakta menarik tentang Anda]**
+- 🔭 Saat ini sedang mengerjakan **Monitoring RAM Civil PEP SUBANG FIELD**
+- 🌱 Sedang belajar **Mobile**
+- 👯 Terbuka untuk kolaborasi dalam **Pengembangan Web dan Mobile**
+- 💬 Tanya saya tentang **Kesamaan**
+- 📫 Hubungi saya: **zidny020204@gmail.com**
+- ⚡ Fun fact: **Tidak bisa hidup tanpa Naswa ku**
 
 ## 🛠️ Tech Stack
 
@@ -46,12 +46,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username-anda]&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-anda]&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZidnyIlmanN&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidnyIlmanN&layout=compact&theme=radical" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-anda]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZidnyIlmanN&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -68,11 +68,11 @@
 
 ## 🔥 Proyek Unggulan
 
-<a href="https://github.com/ZidnyIlmanN/[nama-repo]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZidnyIlmanN&repo=[nama-repo]&theme=radical" />
+<a href="https://github.com/ZidnyIlmanN/absensi-indobuzz-v1 ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZidnyIlmanN&repo=absensi-indobuzz-v1 &theme=radical" />
 </a>
-<a href="https://github.com/ZidnyIlmanN/[nama-repo-2]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZidnyIlmanN&repo=[nama-repo-2]&theme=radical" />
+<a href="https://github.com/ZidnyIlmanN/znafian-web ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZidnyIlmanN&repo=znafian-web &theme=radical" />
 </a>
 
 ## 🌐 Connect With Me
