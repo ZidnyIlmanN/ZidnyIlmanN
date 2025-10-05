@@ -95,7 +95,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[username-anda]&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ZidnyIlmanN&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   
   ### ⭐️ Jangan lupa beri bintang pada repositori yang kamu suka!
   
